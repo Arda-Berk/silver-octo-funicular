@@ -8,9 +8,9 @@ A simple tool made by me to help with biology classes.
 
 **Example:**
 
-Input (D): UAGAGAUGCCUCAGUAG
+Input: UAGAGAUGCCUCAGUAG
 
-Output (R): Met-Pro-Gln
+Output: Met-Pro-Gln
 
 ### Use Convert_Substitute.py to convert DNA to RNA and vice versa. You can also replace Uracil for Thymine and the other way around.
 
